@@ -15,7 +15,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
 
-**API routes** can be accessed [here](https://github.com/tumetus/json-api) via another repo. You can access it opening http://localhost:3001 concurrently with localhost:3000 in your browser. This endpoint can be edited in `/app/todo-list.js`.
+**API routes** can be accessed [here](https://github.com/tumetus/json-api) via another repo. You can access it opening https://localhost:3001 concurrently with localhost:3000 in your browser. This endpoint can be edited in `/app/todo-list.js`.
 
 
 The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
